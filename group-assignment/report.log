@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  16 OCT 2023 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  21 OCT 2023 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -673,114 +673,114 @@ l.64   \newpage
 <assets/GeneShifters.png, id=99, 195.73125pt x 195.73125pt>
 File: assets/GeneShifters.png Graphic file (type png)
 <use assets/GeneShifters.png>
-Package pdftex.def Info: assets/GeneShifters.png  used on input line 92.
+Package pdftex.def Info: assets/GeneShifters.png  used on input line 120.
 (pdftex.def)             Requested size: 193.47948pt x 193.49078pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 93.
+(caption)                particular \caption on input line 121.
 See the caption package documentation for explanation.
 
 <assets/PurityKeepers.jpg, id=100, 207.77625pt x 207.02344pt>
 File: assets/PurityKeepers.jpg Graphic file (type jpg)
 <use assets/PurityKeepers.jpg>
-Package pdftex.def Info: assets/PurityKeepers.jpg  used on input line 97.
+Package pdftex.def Info: assets/PurityKeepers.jpg  used on input line 125.
 (pdftex.def)             Requested size: 193.47948pt x 192.78566pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 98.
+(caption)                particular \caption on input line 126.
 See the caption package documentation for explanation.
 
-[3 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/GeneShifters.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/PurityKeepers.jpg>]
-<assets/Antártica.png, id=109, 180.675pt x 180.675pt>
+[3]
+<assets/Antártica.png, id=106, 180.675pt x 180.675pt>
 File: assets/Antártica.png Graphic file (type png)
 <use assets/Antártica.png>
-Package pdftex.def Info: assets/Antártica.png  used on input line 123.
+Package pdftex.def Info: assets/Antártica.png  used on input line 151.
 (pdftex.def)             Requested size: 193.47948pt x 193.48022pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 124.
+(caption)                particular \caption on input line 152.
 See the caption package documentation for explanation.
 
-<assets/Deserto_Sahara.png, id=110, 180.675pt x 180.675pt>
+<assets/Deserto_Sahara.png, id=107, 180.675pt x 180.675pt>
 File: assets/Deserto_Sahara.png Graphic file (type png)
 <use assets/Deserto_Sahara.png>
-Package pdftex.def Info: assets/Deserto_Sahara.png  used on input line 128.
+Package pdftex.def Info: assets/Deserto_Sahara.png  used on input line 156.
 (pdftex.def)             Requested size: 193.47948pt x 193.48022pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 129.
+(caption)                particular \caption on input line 157.
 See the caption package documentation for explanation.
 
-[4 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>] [5]
-<assets/protest.png, id=123, 385.44pt x 385.44pt>
+[4 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/GeneShifters.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/PurityKeepers.jpg>] [5 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>] [6]
+<assets/protest.png, id=128, 385.44pt x 385.44pt>
 File: assets/protest.png Graphic file (type png)
 <use assets/protest.png>
-Package pdftex.def Info: assets/protest.png  used on input line 193.
+Package pdftex.def Info: assets/protest.png  used on input line 221.
 (pdftex.def)             Requested size: 241.84843pt x 241.8463pt.
- [6 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/protest.png>]
-<assets/He_Jiankui.jpg, id=131, 1979.395pt x 2168.1pt>
+ [7 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/protest.png>]
+<assets/He_Jiankui.jpg, id=136, 1979.395pt x 2168.1pt>
 File: assets/He_Jiankui.jpg Graphic file (type jpg)
 <use assets/He_Jiankui.jpg>
-Package pdftex.def Info: assets/He_Jiankui.jpg  used on input line 242.
+Package pdftex.def Info: assets/He_Jiankui.jpg  used on input line 270.
 (pdftex.def)             Requested size: 241.84843pt x 264.89157pt.
- [7] [8 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/He_Jiankui.jpg>] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+ [8] [9 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/He_Jiankui.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 []\OT1/cmr/m/n/12 Frontier Tech-nol-ogy Quar-terly (2019). \OT1/cmr/m/it/12 Play-ing with Genes: the Good, the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 \OT1/cmr/m/it/12 Bad and the Ugly\OT1/cmr/m/n/12 , [][]$https : / / www . un . org / development / desa / dpad / publication /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 []\OT1/cmr/m/n/12 Observador (2023). \OT1/cmr/m/it/12 China al-tera lei so-bre mod-i-fica^^Xc~ao gen^^Setica.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 \OT1/cmr/m/it/12 Es-pe-cial-is-tas est~ao pre-ocu-pa-dos\OT1/cmr/m/n/12 , [][]$https : / / observador . pt / 2023 / 03 / 08 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 []\OT1/cmr/m/n/12 CNN (2023). \OT1/cmr/m/it/12 Con-tro-ver-sial Chi-nese sci-en-tist He Jiankui pro-poses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 \OT1/cmr/m/it/12 new gene edit-ing re-search\OT1/cmr/m/n/12 , [][]$https : / / edition . cnn . com / 2023 / 07 / 03 / china /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
 [10pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.289 \end{document}
+l.317 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.289 \end{document}
+l.317 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.289 \end{document}
+l.317 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.289 \end{document}
+l.317 \end{document}
                     ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
  (/home/kelli_linux/Alternative-Worlds/group-assignment/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 065E3CD1990A3BFDEB3BB5839F5F342A;1007.
 
@@ -803,7 +803,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  47i,6n,49p,902b,4720s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (11 pages, 2235495 bytes).
+Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (11 pages, 2240349 bytes).
 PDF statistics:
  192 PDF objects out of 1000 (max. 8388607)
  159 compressed objects within 2 object streams
