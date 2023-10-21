@@ -16,3 +16,10 @@ In this imagined world, the CRISPR kit has had a profound impact on various aspe
 
 We conducted research, held brainstorming sessions, and wrote speculative fiction to explore various scenarios and potential outcomes.
 
+## Authors
+
+- [Isabela Teixeira](https://github.com/isa15t)
+- [Raquel Braunschweig](https://github.com/iquelli)
+- Duarte Gomes
+- Laura Gouveia
+
