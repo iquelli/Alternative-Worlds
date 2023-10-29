@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  21 OCT 2023 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  29 OCT 2023 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -499,13 +499,33 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count408
+\U@D=\dimen168
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count409
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 21.
-\@quotelevel=\count408
-\@quotereset=\count409
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+Package babel Info: Making " an active character on input line 145.
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count410
+\@quotereset=\count411
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count410
+\l__kernel_color_stack_int=\count412
 \l__pdf_internal_box=\box49
 ) (/home/kelli_linux/Alternative-Worlds/group-assignment/report.aux
 
@@ -523,25 +543,37 @@ LaTeX Warning: Label `ExemploRef' multiply defined.
 
 LaTeX Warning: Label `ExemploRef' multiply defined.
 
+
+LaTeX Warning: Label `ExemploRef' multiply defined.
+
+
+LaTeX Warning: Label `ExemploRef' multiply defined.
+
+
+LaTeX Warning: Label `ExemploRef' multiply defined.
+
+
+LaTeX Warning: Label `ExemploRef' multiply defined.
+
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -579,25 +611,31 @@ LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count411
-\scratchdimen=\dimen168
+\scratchcounter=\count413
+\scratchdimen=\dimen169
 \scratchbox=\box50
-\nofMPsegments=\count412
-\nofMParguments=\count413
+\nofMPsegments=\count414
+\nofMParguments=\count415
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count414
-\MPscratchDim=\dimen169
-\MPnumerator=\count415
-\makeMPintoPDFobject=\count416
+\MPscratchCnt=\count416
+\MPscratchDim=\dimen170
+\MPnumerator=\count417
+\makeMPintoPDFobject=\count418
 \everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box51
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -605,39 +643,31 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count417
+\c@section@level=\count419
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
  (/home/kelli_linux/Alternative-Worlds/group-assignment/report.out) (/home/kelli_linux/Alternative-Worlds/group-assignment/report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
-Package biblatex Info: ... file 'english-apa.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
-File: english-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'portuguese' -> 'portuguese-apa'...
+Package biblatex Info: ... file 'portuguese-apa.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/portuguese-apa.lbx
+File: portuguese-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
+File: portuguese.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
-Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
-Package biblatex Info: ... file 'american-apa.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
-File: american-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
-Package biblatex Info: Trying to load language 'american'...
-Package biblatex Info: ... file 'american.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
-File: american.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-))))
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
+File: portuguese.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -646,18 +676,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' found.
  (/home/kelli_linux/Alternative-Worlds/group-assignment/report.bbl)
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
 <assets/IST-logo.png, id=64, 499.8675pt x 193.4427pt>
 File: assets/IST-logo.png Graphic file (type png)
 <use assets/IST-logo.png>
-Package pdftex.def Info: assets/IST-logo.png  used on input line 36.
+Package pdftex.def Info: assets/IST-logo.png  used on input line 37.
 (pdftex.def)             Requested size: 241.84843pt x 93.5923pt.
 
 
 LaTeX Font Warning: Font shape `TS1/cmr/m/sc' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textordmasculine' on input line 40.
+(Font)              for symbol `textordmasculine' on input line 41.
 
 [1
 
@@ -668,121 +698,274 @@ LaTeX Font Warning: Font shape `TS1/cmr/m/sc' undefined
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64   \newpage
+l.65   \newpage
                 [1] [2]
-<assets/GeneShifters.png, id=99, 195.73125pt x 195.73125pt>
+<assets/logo.jpg, id=99, 501.875pt x 501.875pt>
+File: assets/logo.jpg Graphic file (type jpg)
+<use assets/logo.jpg>
+Package pdftex.def Info: assets/logo.jpg  used on input line 104.
+(pdftex.def)             Requested size: 193.47948pt x 193.479pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 105.
+See the caption package documentation for explanation.
+
+<assets/instituição.jpg, id=100, 201.00093pt x 201.00093pt>
+File: assets/instituição.jpg Graphic file (type jpg)
+<use assets/instituição.jpg>
+Package pdftex.def Info: assets/instituição.jpg  used on input line 109.
+(pdftex.def)             Requested size: 193.47948pt x 193.477pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 110.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 102--112
+[]$[]$ $[]$ 
+ []
+
+[3 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/logo.jpg> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/instituição.jpg>]
+<assets/sketch.jpg, id=107, 1606.0pt x 629.35126pt>
+File: assets/sketch.jpg Graphic file (type jpg)
+<use assets/sketch.jpg>
+Package pdftex.def Info: assets/sketch.jpg  used on input line 137.
+(pdftex.def)             Requested size: 290.22107pt x 113.72968pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 138.
+See the caption package documentation for explanation.
+
+[4 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/sketch.jpg>]
+<assets/construção1.jpg, id=114, 1084.05pt x 1927.2pt>
+File: assets/construção1.jpg Graphic file (type jpg)
+<use assets/construção1.jpg>
+Package pdftex.def Info: assets/construção1.jpg  used on input line 149.
+(pdftex.def)             Requested size: 120.92421pt x 214.96272pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 150.
+See the caption package documentation for explanation.
+
+<assets/construção.jpg, id=115, 1084.05pt x 1927.2pt>
+File: assets/construção.jpg Graphic file (type jpg)
+<use assets/construção.jpg>
+Package pdftex.def Info: assets/construção.jpg  used on input line 154.
+(pdftex.def)             Requested size: 120.92421pt x 214.96272pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 155.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 147--157
+[]$[]$ $[]$ 
+ []
+
+<assets/comprimidos.jpg, id=116, 813.0375pt x 807.7678pt>
+File: assets/comprimidos.jpg Graphic file (type jpg)
+<use assets/comprimidos.jpg>
+Package pdftex.def Info: assets/comprimidos.jpg  used on input line 165.
+(pdftex.def)             Requested size: 145.11053pt x 144.15938pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 166.
+See the caption package documentation for explanation.
+
+[5 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/construção1.jpg> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/construção.jpg> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/comprimidos.jpg>]
+<assets/objeto-final.jpg, id=124, 1606.0pt x 1204.5pt>
+File: assets/objeto-final.jpg Graphic file (type jpg)
+<use assets/objeto-final.jpg>
+Package pdftex.def Info: assets/objeto-final.jpg  used on input line 173.
+(pdftex.def)             Requested size: 290.22107pt x 217.66446pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 174.
+See the caption package documentation for explanation.
+
+<assets/obj-lab.jpg, id=125, 1204.5pt x 1606.0pt>
+File: assets/obj-lab.jpg Graphic file (type jpg)
+<use assets/obj-lab.jpg>
+Package pdftex.def Info: assets/obj-lab.jpg  used on input line 179.
+(pdftex.def)             Requested size: 169.29315pt x 225.72067pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 180.
+See the caption package documentation for explanation.
+
+<assets/objeto-trás.jpg, id=126, 1204.5pt x 1606.0pt>
+File: assets/objeto-trás.jpg Graphic file (type jpg)
+<use assets/objeto-trás.jpg>
+Package pdftex.def Info: assets/objeto-trás.jpg  used on input line 184.
+(pdftex.def)             Requested size: 169.29315pt x 225.72067pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 185.
+See the caption package documentation for explanation.
+
+[6 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/objeto-final.jpg> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/obj-lab.jpg> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/objeto-trás.jpg>]
+<assets/GeneShifters.png, id=136, 195.73125pt x 195.73125pt>
 File: assets/GeneShifters.png Graphic file (type png)
 <use assets/GeneShifters.png>
-Package pdftex.def Info: assets/GeneShifters.png  used on input line 120.
+Package pdftex.def Info: assets/GeneShifters.png  used on input line 205.
 (pdftex.def)             Requested size: 193.47948pt x 193.49078pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 121.
+(caption)                particular \caption on input line 206.
 See the caption package documentation for explanation.
 
-<assets/PurityKeepers.jpg, id=100, 207.77625pt x 207.02344pt>
+<assets/PurityKeepers.jpg, id=137, 207.77625pt x 207.02344pt>
 File: assets/PurityKeepers.jpg Graphic file (type jpg)
 <use assets/PurityKeepers.jpg>
-Package pdftex.def Info: assets/PurityKeepers.jpg  used on input line 125.
+Package pdftex.def Info: assets/PurityKeepers.jpg  used on input line 210.
 (pdftex.def)             Requested size: 193.47948pt x 192.78566pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 126.
+(caption)                particular \caption on input line 211.
 See the caption package documentation for explanation.
 
-[3]
-<assets/Antártica.png, id=106, 180.675pt x 180.675pt>
+[7 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/GeneShifters.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/PurityKeepers.jpg>]
+<assets/Antártica.png, id=145, 180.675pt x 180.675pt>
 File: assets/Antártica.png Graphic file (type png)
 <use assets/Antártica.png>
-Package pdftex.def Info: assets/Antártica.png  used on input line 151.
+Package pdftex.def Info: assets/Antártica.png  used on input line 236.
 (pdftex.def)             Requested size: 193.47948pt x 193.48022pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 152.
+(caption)                particular \caption on input line 237.
 See the caption package documentation for explanation.
 
-<assets/Deserto_Sahara.png, id=107, 180.675pt x 180.675pt>
+<assets/Deserto_Sahara.png, id=146, 180.675pt x 180.675pt>
 File: assets/Deserto_Sahara.png Graphic file (type png)
 <use assets/Deserto_Sahara.png>
-Package pdftex.def Info: assets/Deserto_Sahara.png  used on input line 156.
+Package pdftex.def Info: assets/Deserto_Sahara.png  used on input line 241.
 (pdftex.def)             Requested size: 193.47948pt x 193.48022pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 157.
+(caption)                particular \caption on input line 242.
 See the caption package documentation for explanation.
 
-[4 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/GeneShifters.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/PurityKeepers.jpg>] [5 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>] [6]
-<assets/protest.png, id=128, 385.44pt x 385.44pt>
+[8 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>] [9]
+<assets/protest.png, id=160, 385.44pt x 385.44pt>
 File: assets/protest.png Graphic file (type png)
 <use assets/protest.png>
-Package pdftex.def Info: assets/protest.png  used on input line 221.
+Package pdftex.def Info: assets/protest.png  used on input line 306.
 (pdftex.def)             Requested size: 241.84843pt x 241.8463pt.
- [7 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/protest.png>]
-<assets/He_Jiankui.jpg, id=136, 1979.395pt x 2168.1pt>
+ [10 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/protest.png>]
+<assets/He_Jiankui.jpg, id=167, 1979.395pt x 2168.1pt>
 File: assets/He_Jiankui.jpg Graphic file (type jpg)
 <use assets/He_Jiankui.jpg>
-Package pdftex.def Info: assets/He_Jiankui.jpg  used on input line 270.
+Package pdftex.def Info: assets/He_Jiankui.jpg  used on input line 355.
 (pdftex.def)             Requested size: 241.84843pt x 264.89157pt.
- [8] [9 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/He_Jiankui.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-[]\OT1/cmr/m/n/12 Frontier Tech-nol-ogy Quar-terly (2019). \OT1/cmr/m/it/12 Play-ing with Genes: the Good, the
+ [11] [12 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/He_Jiankui.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+[]\OT1/cmr/m/n/12 Frontier Te-ch-no-logy Quar-terly (2019). \OT1/cmr/m/it/12 Playing with Ge-nes: the Good, the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 \OT1/cmr/m/it/12 Bad and the Ugly\OT1/cmr/m/n/12 , [][]$https : / / www . un . org / development / desa / dpad / publication /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-[]\OT1/cmr/m/n/12 Observador (2023). \OT1/cmr/m/it/12 China al-tera lei so-bre mod-i-fica^^Xc~ao gen^^Setica.
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+[]\OT1/cmr/m/n/12 Observador (2023). \OT1/cmr/m/it/12 China al-tera lei so-bre mo-di-fica^^Xc~ao gen^^Setica.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-\OT1/cmr/m/it/12 Es-pe-cial-is-tas est~ao pre-ocu-pa-dos\OT1/cmr/m/n/12 , [][]$https : / / observador . pt / 2023 / 03 / 08 /
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+\OT1/cmr/m/it/12 Es-pe-ci-a-lis-tas est~ao pre-o-cu-pa-dos\OT1/cmr/m/n/12 , [][]$https : / / observador . pt / 2023 / 03 / 08 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-[]\OT1/cmr/m/n/12 CNN (2023). \OT1/cmr/m/it/12 Con-tro-ver-sial Chi-nese sci-en-tist He Jiankui pro-poses
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+[]\OT1/cmr/m/n/12 CNN (2023). \OT1/cmr/m/it/12 Con-tro-ver-sial Chi-nese sci-en-tist He Ji-an-kui pro-po-ses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-\OT1/cmr/m/it/12 new gene edit-ing re-search\OT1/cmr/m/n/12 , [][]$https : / / edition . cnn . com / 2023 / 07 / 03 / china /
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+\OT1/cmr/m/it/12 new gene edi-ting re-se-arch\OT1/cmr/m/n/12 , [][]$https : / / edition . cnn . com / 2023 / 07 / 03 / china /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
-[10pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
+
+Underfull \hbox (badness 5504) in paragraph at lines 403--404
+[]\OT1/cmr/m/n/12 P^^Sublico (2023). \OT1/cmr/m/it/12 J^^Sa se sabe o que est^^Sa a fa-zer o ci-en-tista chin^es que mu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+\OT1/cmr/m/it/12 dou o ADN de beb^^Ses\OT1/cmr/m/n/12 , [][]$https : / / www . publico . pt / 2023 / 01 / 11 / ciencia / noticia /
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 406--407
+[]\OT1/cmr/m/n/12 Iberdola (2020). \OT1/cmr/m/it/12 CRISPR: a grande re-volu^^Xc~ao gen^^Setica\OT1/cmr/m/n/12 , [][]$https : / / www . iberdrola . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+[]\OT1/cmr/m/n/12 Publico (2021). \OT1/cmr/m/it/12 Teste gen^^Setico por-tugu^es ajuda a tra-tar doen^^Xcas com
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+\OT1/cmr/m/it/12 uma gota de sa-liva\OT1/cmr/m/n/12 , [][]$https : / / www . publico . pt / 2021 / 01 / 22 / ciencia / noticia /
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
+[13pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \end{document}
+l.415 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \end{document}
+l.415 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \end{document}
+l.415 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \end{document}
+l.415 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.ExemploRef}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{document}
                     ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
  (/home/kelli_linux/Alternative-Worlds/group-assignment/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 065E3CD1990A3BFDEB3BB5839F5F342A;1007.
+(rerunfilecheck)             Checksum: F8A01CF72D45E61208343DC5793AC3DA;1004.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -795,18 +978,18 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15619 strings out of 481239
- 269044 string characters out of 5920376
- 1006922 words of memory out of 5000000
- 30649 multiletter control sequences out of 15000+600000
+ 16113 strings out of 481239
+ 275636 string characters out of 5920376
+ 1001807 words of memory out of 5000000
+ 31106 multiletter control sequences out of 15000+600000
  538892 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,6n,49p,902b,4720s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,42p,902b,2609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (11 pages, 2240349 bytes).
+Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (14 pages, 3378093 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

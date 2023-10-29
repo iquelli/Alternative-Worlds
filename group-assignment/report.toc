@@ -1,31 +1,32 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introdução}{2}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Desenvolvimento do Objeto}{2}{section.2}%
+\contentsline {section}{\numberline {2}A nossa Instituição}{2}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}A nossa Instituição}{2}{section.3}%
+\contentsline {section}{\numberline {3}Objeto}{3}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Utilização do Objeto}{3}{section.4}%
+\contentsline {subsection}{\numberline {3.1}Documentação do objeto}{4}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Evolução da Sociedade}{3}{section.5}%
+\contentsline {section}{\numberline {4}Evolução da Sociedade}{6}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}GeneShifters vs PurityKeepers}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {4.1}GeneShifters vs PurityKeepers}{6}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Transformação do Ambiente}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {4.2}Transformação do Ambiente}{7}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Impacto na saúde, fauna e flora}{5}{subsection.5.3}%
+\contentsline {subsection}{\numberline {4.3}Impacto na saúde, fauna e flora}{8}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}Legado de He Jiankui}{5}{subsection.5.4}%
+\contentsline {subsection}{\numberline {4.4}Legado de He Jiankui}{8}{subsection.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Impactos Sociais}{5}{section.6}%
+\contentsline {section}{\numberline {5}Impactos Sociais}{9}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Desigualdades Sociais}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {5.1}Desigualdades Sociais}{9}{subsection.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Discriminação}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {5.2}Discriminação}{9}{subsection.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Resultados de uma Operação Mal Realizada}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {5.3}Resultados de uma Operação Mal Realizada}{9}{subsection.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4}Dilemas éticos}{7}{subsection.6.4}%
+\contentsline {subsection}{\numberline {5.4}Dilemas éticos}{10}{subsection.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Conclusão}{8}{section.7}%
+\contentsline {section}{\numberline {6}Conclusão}{11}{section.6}%
