@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  28 OCT 2023 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  31 OCT 2023 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,31 +229,58 @@ File: babel.def 2020/02/14 3.40 Babel common definitions
 \bbl@dirlevel=\count282
 )
 Package babel Info: Making " an active character on input line 145.
-))
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+)) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+ (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count283
+\l__kernel_color_stack_int=\count286
 \l__pdf_internal_box=\box47
-) (/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.aux)
+) (/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.aux
+
+LaTeX Warning: Label `Parlamento' multiply defined.
+
+)
 \openout1 = `critical-analysis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -291,30 +318,24 @@ LaTeX Font Info:    ... okay on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen154
+\scratchcounter=\count287
+\scratchdimen=\dimen161
 \scratchbox=\box48
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen155
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen162
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\c@lstlisting=\count290
+\c@lstlisting=\count293
 \AtBeginShipoutBox=\box49
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
@@ -323,7 +344,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 32.
+Package hyperref Info: Link coloring ON on input line 35.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -331,23 +352,42 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count294
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
  (/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.out) (/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.out)
 \@outlinefile=\write3
 \openout3 = `critical-analysis.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 <assets/IST-logo.png, id=4, 499.8675pt x 193.4427pt>
 File: assets/IST-logo.png Graphic file (type png)
 <use assets/IST-logo.png>
-Package pdftex.def Info: assets/IST-logo.png  used on input line 46.
+Package pdftex.def Info: assets/IST-logo.png  used on input line 50.
 (pdftex.def)             Requested size: 200.19054pt x 77.47015pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/kelli_linux/Alternative-Worlds/individual-assignment/assets/IST-logo.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 61.
+<assets/refugiados-climaticos.jpg, id=14, 1114.1625pt x 742.775pt>
+File: assets/refugiados-climaticos.jpg Graphic file (type jpg)
+<use assets/refugiados-climaticos.jpg>
+Package pdftex.def Info: assets/refugiados-climaticos.jpg  used on input line 85.
+(pdftex.def)             Requested size: 300.29344pt x 200.18924pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 86.
+See the caption package documentation for explanation.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
@@ -357,31 +397,64 @@ This may cause the page layout to be inconsistent, however.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59   \newpage
-                [1]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+l.89 P
+      or outro lado, More salienta que numa sociedade utópica todos os indi... [1] [2 </home/kelli_linux/Alternative-Worlds/individual-assignment/assets/refugiados-climaticos.jpg>]
+Overfull \hbox (3.01056pt too wide) in paragraph at lines 109--110
+[]\OT1/cmr/m/n/12 Reece E. (2016). \OT1/cmr/m/it/12 Uto-pia Now\OT1/cmr/m/n/12 , https://www.theatlantic.com/business/archive/2016/08/utopia-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 Webster A. (2022). \OT1/cmr/m/it/12 The be-ne-fits of com-mu-nal li-ving\OT1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/12 United Na-ti-ons (2019). \OT1/cmr/m/it/12 Con-flict and Na-tu-ral Re-sour-ces\OT1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/12 Parlamento Eu-ro-peu (2023). \OT1/cmr/m/it/12 Mi-gra^^Xc~ao: um de-sa-fio co-mum\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (25.32997pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/12 Hodgkinson (2016). \OT1/cmr/m/it/12 How Uto-pia sha-ped the world\OT1/cmr/m/n/12 . https://www.bbc.com/culture/article/20160920-
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+[3pdfTeX warning (ext4): destination with the same identifier (name{cite.Parlamento}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.131 \end{document}
+                    ]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `critical-analysis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 7960 strings out of 481239
- 121272 string characters out of 5920376
- 399184 words of memory out of 5000000
- 23098 multiletter control sequences out of 15000+600000
- 534186 words of font info for 30 fonts, out of 8000000 for 9000
+ 9380 strings out of 481239
+ 145104 string characters out of 5920376
+ 430060 words of memory out of 5000000
+ 24491 multiletter control sequences out of 15000+600000
+ 536931 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,45p,294b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.pdf (3 pages, 88706 bytes).
+ 41i,12n,45p,999b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.pdf (4 pages, 1270878 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
