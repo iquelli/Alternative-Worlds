@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  29 OCT 2023 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.10.15)  31 OCT 2023 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,19 +851,14 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 242.
 See the caption package documentation for explanation.
 
-[8 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>]
-Overfull \hbox (26.83833pt too wide) in paragraph at lines 284--285
-[]\OT1/cmr/m/n/12 Havia uma di-vis~ao en-tre a cor-rente ne-ga-ci-o-nista em oposi^^Xc~ao ^^Ra cor-rente fi-los^^Sofica do transumanismo.$[]$ 
- []
-
-[9]
-<assets/protest.png, id=161, 385.44pt x 385.44pt>
+[8 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Antártica.png> </home/kelli_linux/Alternative-Worlds/group-assignment/assets/Deserto_Sahara.png>] [9]
+<assets/protest.png, id=160, 385.44pt x 385.44pt>
 File: assets/protest.png Graphic file (type png)
 <use assets/protest.png>
 Package pdftex.def Info: assets/protest.png  used on input line 306.
 (pdftex.def)             Requested size: 241.84843pt x 241.8463pt.
  [10 </home/kelli_linux/Alternative-Worlds/group-assignment/assets/protest.png>]
-<assets/He_Jiankui.jpg, id=168, 1979.395pt x 2168.1pt>
+<assets/He_Jiankui.jpg, id=167, 1979.395pt x 2168.1pt>
 File: assets/He_Jiankui.jpg Graphic file (type jpg)
 <use assets/He_Jiankui.jpg>
 Package pdftex.def Info: assets/He_Jiankui.jpg  used on input line 355.
@@ -990,11 +985,11 @@ Here is how much of TeX's memory you used:
  538892 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,42p,902b,2609s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (14 pages, 3385863 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on /home/kelli_linux/Alternative-Worlds/group-assignment/report.pdf (14 pages, 3378093 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 234 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
  47 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

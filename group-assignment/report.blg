@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
-[0] Config.pm:307> INFO - Logfile is 'report.blg'
-[52] biber:322> INFO - === Sun Oct 29, 2023, 11:34:06
-[61] Biber.pm:415> INFO - Reading 'report.bcf'
-[115] Utils.pm:293> WARN - No data sources defined!
