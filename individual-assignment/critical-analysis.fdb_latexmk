@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1698756188 "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.tex" "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.pdf" "critical-analysis" 1698756188
+["pdflatex"] 1698756583 "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.tex" "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.pdf" "critical-analysis" 1698756584
   "/etc/texmf/web2c/texmf.cnf" 1695822401 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.aux" 1698756188 1175 9000b2738d4bde521e2a801df67be88f ""
-  "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.tex" 1698756188 8469 1e275f901af27558819a61daf4736723 ""
+  "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.aux" 1698756584 1175 9000b2738d4bde521e2a801df67be88f ""
+  "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.tex" 1698756583 8480 ecbffe29155d5b5c98bf5defc017a85b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -85,13 +85,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1697378412 8256347 ce454feaf6ea13a128284a6a96bbde18 ""
   "assets/IST-logo.png" 1698509046 60420 e83870e563a5aa75f4fd197416e19a94 ""
   "assets/refugiados-climaticos.jpg" 1698754773 1151049 63523a7a1136ff299c71e3c2d1cbe58d ""
-  "critical-analysis.aux" 1698756188 1175 9000b2738d4bde521e2a801df67be88f "pdflatex"
-  "critical-analysis.out" 1698756188 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "critical-analysis.tex" 1698756188 8469 1e275f901af27558819a61daf4736723 ""
+  "critical-analysis.aux" 1698756584 1175 9000b2738d4bde521e2a801df67be88f "pdflatex"
+  "critical-analysis.out" 1698756583 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "critical-analysis.tex" 1698756583 8480 ecbffe29155d5b5c98bf5defc017a85b ""
   (generated)
-  "critical-analysis.log"
+  "critical-analysis.pdf"
   "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.pdf"
   "critical-analysis.out"
-  "critical-analysis.aux"
   "/home/kelli_linux/Alternative-Worlds/individual-assignment/critical-analysis.log"
-  "critical-analysis.pdf"
+  "critical-analysis.log"
+  "critical-analysis.aux"
